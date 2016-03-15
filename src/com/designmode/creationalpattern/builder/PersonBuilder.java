@@ -1,4 +1,4 @@
-package com.designmode.builder;
+package com.designmode.creationalpattern.builder;
 
 public interface PersonBuilder {
 	void buildHead();

@@ -1,4 +1,4 @@
-package com.designmode.builder;
+package com.designmode.creationalpattern.builder;
 
 public class ManBuilder implements PersonBuilder {
 	Person person;

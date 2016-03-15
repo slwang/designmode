@@ -1,4 +1,4 @@
-package com.designmode.factory;
+package com.designmode.creationalpattern.factory;
 
 public class PrintOne implements PrintInterface {
 

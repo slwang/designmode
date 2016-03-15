@@ -1,4 +1,4 @@
-package com.designmode.prototype;
+package com.designmode.creationalpattern.prototype;
 
 import java.io.IOException;
 

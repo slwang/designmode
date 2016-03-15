@@ -1,4 +1,4 @@
-package com.designmode.singleton;
+package com.designmode.creationalpattern.singleton;
 
 public class SingletonMode {
 	private static SingletonMode singleton;

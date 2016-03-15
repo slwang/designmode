@@ -1,4 +1,4 @@
-package com.designmode.builder;
+package com.designmode.creationalpattern.builder;
 
 public class PersonDirector {
 	public Person constructPerson(PersonBuilder pb) {

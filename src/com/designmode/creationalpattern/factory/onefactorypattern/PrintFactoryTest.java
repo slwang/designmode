@@ -1,6 +1,6 @@
-package com.designmode.factory.onefactorypattern;
+package com.designmode.creationalpattern.factory.onefactorypattern;
 
-import com.designmode.factory.PrintInterface;
+import com.designmode.creationalpattern.factory.PrintInterface;
 
 public class PrintFactoryTest {
 

@@ -1,8 +1,8 @@
-package com.designmode.factory.onefactorypattern;
+package com.designmode.creationalpattern.factory.onefactorypattern;
 
-import com.designmode.factory.PrintInterface;
-import com.designmode.factory.PrintOne;
-import com.designmode.factory.PrintTwo;
+import com.designmode.creationalpattern.factory.PrintInterface;
+import com.designmode.creationalpattern.factory.PrintOne;
+import com.designmode.creationalpattern.factory.PrintTwo;
 
 public class PrintFactory {
 	public PrintInterface produce(String type) {  
