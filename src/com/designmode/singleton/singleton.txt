@@ -1,0 +1,4 @@
+但是这样会引发多线程问题，详细解说可以看《Java多线程编程核心技术》书中的第六章
+But this will trigger a multithreaded problem, 
+detailed explanation can see "Java multi-thread programming core technology" 
+the sixth chapter in the book
